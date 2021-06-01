@@ -10,3 +10,8 @@ typed from github.com 3
 typing this from vscode1
 
 typing this from vscode2
+
+
+## local development
+
+1. open inded.html in browser.
